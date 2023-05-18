@@ -1,7 +1,7 @@
 <h2>  Olá 🤙 </h2>
 
 <div>
-  📚 UX/UI Designer Mentora de Design na Apple Developer Academy
+  📚 UX/UI Designer 
   
   🍎 Mentora de Design na Apple Developer Academy
 </div>
