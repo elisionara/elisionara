@@ -1,4 +1,10 @@
-## Olá 🤙
+<h2>  Olá 🤙 </h2>
+
+<div>
+  📚 UX/UI Designer Mentora de Design na Apple Developer Academy
+  
+  🍎 Mentora de Design na Apple Developer Academy
+</div>
 
 <div>
   <a href="https://github.com/elisionara">
@@ -23,11 +29,11 @@
   ##
   
   <div> 
-  <a href="https://www.figma.com/@elisionara" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+  <a href="https://www.figma.com/@elis_ionara" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elisionara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
   
   ##
   
- ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/elisionara/elisionara/blob/output/github-contribution-grid-snake.svg)
